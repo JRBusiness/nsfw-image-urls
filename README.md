@@ -11,7 +11,7 @@ These images were taken from [Reddit](https://reddit.com) using the following ru
 
 # Stats
 
-There are 1,242,369 URLs across 150 categories.
+There are **1,242,369** URLs across **150** categories.
 
 | Folder | URL Count |
 | ------ | --------- |
