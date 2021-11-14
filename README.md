@@ -7,7 +7,7 @@ These images were taken from [Reddit](https://reddit.com) using the following ru
 1. The URL returned a 200 status code.
 2. The URL took less than 10 seconds to respond.
 3. The content-type of the response was 'image/*', excluding 'image/gif'.
-4. URLs that returned an error graphic indicating the original image had been deleted were not included.
+4. URLs that returned an error image indicating the original image had been deleted were not included.
 
 # Stats
 
