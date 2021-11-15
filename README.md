@@ -8,6 +8,7 @@ These images were taken from [Reddit](https://reddit.com) using the following ru
 2. The URL took less than 10 seconds to respond.
 3. The content-type of the response was 'image/*', excluding 'image/gif'.
 4. URLs that returned an error image indicating the original image had been deleted were not included.
+5. The post had a score of at least 5.
 
 # Stats
 
